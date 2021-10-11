@@ -1,5 +1,10 @@
 # wifi-voucher-code-cracker
 
+The wifi-voucher-code cracker tryes to crack the wifi code, for an open wifi.
+This code, just runs on specific network.
+
+Please report any issues.
+
 ## Installation
 
 1. Download the source code from github
