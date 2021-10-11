@@ -1,6 +1,7 @@
 # wifi-voucher-code-cracker
 
-The wifi-voucher-code cracker tryes to crack the wifi code, for an open wifi.
+The wifi-voucher-code cracker tries to crack the wifi code, for an open wifi.
+It uses bruceForce with random codes, to higher chance of success.
 This code, just runs on specific network.
 
 Please report any issues.
