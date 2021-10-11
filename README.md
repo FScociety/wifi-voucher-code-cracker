@@ -7,8 +7,12 @@
 git clone https://github.com/FScociety/wifi-voucher-code-cracker.git
 ```
 
-2. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
+2. Go to the downloaded directory
+```bash
+cd wifi-voucher-code-cracker
+```
 
+3. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
 ```bash
 pip install -r requirements.txt
 ```
